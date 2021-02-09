@@ -1,4 +1,4 @@
 function importer() {
-  import * as out from "https://doingsomethingrandom.github.com/simplejs/out.js";
+  import * as out from "out.js";
 }
 export importer;
